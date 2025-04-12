@@ -14,6 +14,16 @@
 I am a professional developer with 7+ years of experience in software development and a Full Stack IT consultant
 tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am an expert in frameworks like Laravel and React and cloud services like AWS. My key achievements include creating a tenant-based application using Laravel, React, and AWS. I prioritize team collaboration and adaptability, utilizing my coding, debugging, and project management skills to deliver reliable and flexible solutions.
 
+
+### 💻 Technical Expertise:
+- Languages: JavaScript, NodeJs, PHP, Python
+- JS Frameworks: React, Redux, Zustand, Express.js
+- Frameworks: Laravel
+- RDBMS/NoSQL: MySQL, PostgreSQL/MongoDB
+- AWS : EC2, S3, RDS, SQS, Lambda, Secret Manager
+- Web Designing : HTML5, CSS3, jQuery, Bootstrap, Tailwind
+- IDE/Tools: Visual Studio / GitLab
+
 #### :fire: My Stats :
 
 <a href="https://github.com/Avinashkant">
