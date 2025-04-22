@@ -16,12 +16,10 @@ tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 
 ### 💻 Technical Expertise:
-- Back-End:   Laravel, PHP, Node.js, Express.js, RESTful APIs, Microservices
-- Front-End:  JavaScript, React.js, HTML5, CSS3, Tailwind, jQuery, Bootstrap 
-- Databases:  MySQL, PostgreSQL, MongoDB, Redis, Kafka
-- RDBMS/NoSQL: MySQL, PostgreSQL/MongoDB
+- <b>Back-End:</b>   Laravel, PHP, Node.js, Express.js, RESTful APIs, Microservices
+- <b>Front-End:</b>  JavaScript, React.js, HTML5, CSS3, Tailwind, jQuery, Bootstrap 
+- <b>Databases:</b>  MySQL, PostgreSQL, MongoDB, Redis, Kafka
 - AWS : EC2, S3, RDS, SQS, Lambda, Secret Manager
-- Web Designing : HTML5, CSS3, jQuery, Bootstrap, Tailwind
 - IDE/Tools: Visual Studio / GitLab
 
 #### :fire: My Stats :
