@@ -16,7 +16,7 @@ tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 
 ### 💻 Technical Expertise:
-- Languages: JavaScript, NodeJs, PHP, Python
+- Back-End:  Laravel, PHP, Node.js, Express.js, RESTful APIs, Microservices
 - JS Frameworks: React, Redux, Zustand, Express.js
 - Frameworks: Laravel
 - RDBMS/NoSQL: MySQL, PostgreSQL/MongoDB
