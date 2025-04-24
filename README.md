@@ -21,7 +21,7 @@ tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 - <b>Databases:</b>  MySQL, PostgreSQL, MongoDB, Redis, Kafka
 - <b>Libraries:</b>  Redux, Redux-Hooks, Zustand, Formik, Jest, Vite 
   <b>Cloud:</b>      AWS (EC2, S3, RDS, SQS, Lambda, Secret Manager) 
-- <b>Tools:</b>:     Docker, GitLab, Visual Studio
+- <b>Tools:</b>      Docker, GitLab, Visual Studio
 
 #### :fire: My Stats :
 
