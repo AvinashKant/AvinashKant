@@ -20,7 +20,8 @@ tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 - <b>Front-End:</b>  React.js, JavaScript, Tailwind, Bootstrap, jQuery, HTML5, CSS3
 - <b>Databases:</b>  MySQL, PostgreSQL, MongoDB, Redis, Kafka
 - <b>Libraries:</b>  Redux, Redux-Hooks, Zustand, Formik, Jest, Vite 
-- <b>Databases:</b>: Visual Studio / GitLab
+  <b>Cloud:</b>      AWS (EC2, S3, RDS, SQS, Lambda, Secret Manager) 
+- <b>Tools:</b>:     Docker, GitLab, Visual Studio
 
 #### :fire: My Stats :
 
