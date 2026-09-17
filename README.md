@@ -26,8 +26,8 @@ My professional approach combines **strong technical expertise, strategic thinki
 
 # 🔹 Backend Development
 
-- **Languages:** Python, PHP
-- **Frameworks:** Laravel, Node.js, NestJS, FastApi
+- **Languages:** Python, PHP, Node.js
+- **Frameworks:** Laravel, NestJS, FastApi
 - **API Development:** RESTful APIs, API Design & Integration
 - **Architecture:** Microservices, Service-Oriented Architecture
 
