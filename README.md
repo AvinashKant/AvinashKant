@@ -62,7 +62,6 @@ My professional approach combines **strong technical expertise, strategic thinki
 
 - **Containerization:** Docker
 - **Version Control & CI/CD:** GitLab
-- **IDE:** Visual Studio / Visual Studio Code
 - **Development Practices:** Containerized Development, CI/CD Workflows
 
 #### :fire: My Stats :
