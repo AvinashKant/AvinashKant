@@ -34,7 +34,7 @@ My professional approach combines **strong technical expertise, strategic thinki
 ## 🔹 Frontend Development
 - **Frameworks & Libraries:** React.js, jQuery
 - **Languages:** JavaScript (ES6+), HTML5
-- **UI & Styling:** Tailwind CSS,CSS3, Bootstrap
+- **UI & Styling:** Tailwind, CSS3, Bootstrap
 - **State Management:** Redux, Redux Hooks, Zustand
 - **Form Management:** Formik
 
